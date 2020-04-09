@@ -51,3 +51,6 @@ At this time, NYC DOHMH does not have the ability to robustly quantify the numbe
 Annual citywide, borough-specific, and demographic specific intercensal population estimates from 2018 were developed by NYC DOHMH on the basis of the US Census Bureau’s Population Estimates Program, as of November 2019. 
 
 Rates of cases at the borough-level were calculated using direct standardization for age at diagnosis and weighting by [the US 2000 standard population](https://www.cdc.gov/nchs/data/statnt/statnt20.pdf). 
+
+## SLEEPINGTUNA NOTES:
+Using data from NYCHealth, I have generated a map showing the demographic breakdown by Zip Code Tabulated Area (ZCTA) of COVID-19 cases in New York City. 
